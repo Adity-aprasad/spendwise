@@ -2,7 +2,7 @@
 # Spendwise an expance management System using MERN Stack
 
 
-### Vercel Link:  https://spendwise-black.vercel.app
+### Vercel Link: https://spendwise-eosin.vercel.app/
 
 
 ## Project Description:
