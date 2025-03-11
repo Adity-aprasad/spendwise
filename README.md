@@ -1,7 +1,6 @@
 
-# Expense Management System using MERN Stack
+# Spendwise an expance management System using MERN Stack
 
-### Live Website: https://main.d1sj7cd70hlter.amplifyapp.com/
 
 ### Vercel Link:  https://spendwise-black.vercel.app
 
